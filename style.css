@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#pic{
+    width: 600px;
+/*    height: 100%;*/
+    margin: 50px auto;
+    position: relative;
+}
